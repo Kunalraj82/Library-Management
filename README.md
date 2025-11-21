@@ -1,10 +1,10 @@
 
-📚 Library Management System (Java)
+Library Management System (Java):-
 
 A simple and efficient Library Management System built using Java.
 This project demonstrates Object-Oriented Programming (OOP), Collections, and File Handling through a console-based application that manages books and library members.
 
-🚀 Features
+ Features:-
 ✔ Book Management
 
 Add new books
